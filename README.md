@@ -14,20 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hello! I'm Lucas.
-[![Commits Badge](https://badges.pufler.dev/commits/all/LSantos06)](https://github.com/LSantos06)
-[![Years Badge](https://badges.pufler.dev/years/LSantos06)](https://github.com/LSantos06)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-a28199104/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucasnascimentoss@gmail.com)
 
 ## Stats
-<a href="https://github.com/LSantos06">
-  <div align="center"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSantos06&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSantos06&theme=dark&layout=compact&hide_border=true&langs_count=10&hide=html,css,tex" />
-    <img height="180em" src ="https://github-readme-streak-stats.herokuapp.com?user=LSantos06&theme=dark&hide_border=true">
-    <img height="180em" src ="https://github-readme-stats.vercel.app/api/wakatime?username=LSantos06&theme=dark&hide_border=true">
-  </div>
-</a>
+![Metrics](/github-metrics.svg)
 
 ## Tech Stack
 - Languages &nbsp;
