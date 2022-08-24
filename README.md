@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ## 👋 Hello! I'm Lucas.
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-a28199104/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucasnascimentoss@gmail.com)
 
 ## Stats
+-->
 ![Metrics](/github-metrics.svg)
 
+<!--
 ## Tech Stack
 - Languages &nbsp;
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -93,3 +96,4 @@ Here are some ideas to get you started:
 - Prototyping Plataforms &nbsp;
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
+-->
